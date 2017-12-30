@@ -1,13 +1,8 @@
-## Your Name
+## Reena Sharma
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I was a junior auditor and now a budding programmer working towards becoming full stack developer. I am quick to grasp new concepts and ideas and able to work on own initiative with the organisation and prioritisation to achieve deadlines.
 
 ## Skills
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 - Experience
 - Achievements
 - Evidence
@@ -23,10 +18,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Nov 2017 to Mar 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
+- Fast, independent learner [https://www.codewars.com/users/reenz]
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
@@ -34,17 +29,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Symbiosis International College of Arts and Commerce, Pune, India(July 2011 to May 2013)
+-Masters in Commerce specialising in Accounting and Taxation
+-First class
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Ness Wadia College of Commerce, Pune, India(July 2013 to May 2014)
+-Post Graduate Diploma in Banking and Finance
+-First class
 
-#### Any other qualifications
+#### Course in Certified Industrial Accountant+ from Pune, India(Sep 2008 to Feb 2010)
+- A Grade
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**PRGX Pvt India Ltd** (Dec 2013 to Dec 2014)    
+*Junior Auditor*  
+- Matching clients accounting history to discover and recover over payments, missed discounts and pricing errors.
+- Analysing payment history to crosscheck if the allowances or payback were received from vendor, if not then raising
+  debit memo on behalf of the client.
+- Preparing weekly reports to stakeholders.
+- Identifying and conducting domain training/presentation for team members and handling their queries.
