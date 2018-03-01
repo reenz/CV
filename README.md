@@ -1,8 +1,20 @@
 ## Reena Sharma
 
+[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/reena-sharma-061a07105/) |
+
+
 I was a junior auditor and now a budding programmer working towards becoming full stack developer. I am quick to grasp new concepts and ideas and able to work on own initiative with the organisation and prioritisation to achieve deadlines.
 
-## Skills
+#### Projects
+
+| Name  | Description | Technologies |Testing |
+| ------------- | ------------- | ------------- |-------
+| [Takeaway Challenge](https://github.com/reenz/takeaway-challenge)  | Takeaway app, with the feature to send confirmation SMS ! | Ruby | RSpec
+| [Chitter Challenge](https://github.com/reenz/chitter-challenge) | Twitter Clone | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB),CSS3 | RSpec, Capybara
+| [Bowling Challenge](https://github.com/reenz/bowling-challenge)  | Calculate Scores for Ten Pin Bowling | JavaScript,JQuery,HTML5,CSS3 | Jasmine
+| [Instagram Challenge](https://github.com/reenz/instagram-challenge)  | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick | RSpec, Capybara
+
+## <a name="skills">Skills</a>
 - Experience
 - Achievements
 - Evidence
@@ -16,7 +28,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## <a name="education"> Education </a>
 
 #### Makers Academy (Nov 2017 to Mar 2018)
 
@@ -40,7 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Course in Certified Industrial Accountant+ from Pune, India(Sep 2008 to Feb 2010)
 - A Grade
 
-## Experience
+## <a name="experience"> Experience </a>
 
 **PRGX Pvt India Ltd** (Dec 2013 to Dec 2014)    
 *Junior Auditor*  
@@ -49,3 +61,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   debit memo on behalf of the client.
 - Preparing weekly reports to stakeholders.
 - Identifying and conducting domain training/presentation for team members and handling their queries.
+
+## <a name="interests"> Interests </a>
+- Enjoy trying out new dishes and baking cakes
