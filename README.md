@@ -1,9 +1,9 @@
 ## Reena Sharma
 
-[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/reena-sharma-061a07105/) |
+[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/reena-sharma-061a07105/)
 
 
-I was a junior auditor and now a budding programmer working towards becoming full stack developer. I am quick to grasp new concepts and ideas and able to work on own initiative with the organisation and prioritisation to achieve deadlines.
+I was a junior auditor and now a full stack developer. I am quick to grasp new concepts and ideas and able to work on own initiative with the organisation and prioritisation to achieve deadlines.
 
 #### Projects
 
@@ -15,31 +15,18 @@ I was a junior auditor and now a budding programmer working towards becoming ful
 | [Instagram Challenge](https://github.com/reenz/instagram-challenge)  | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick | RSpec, Capybara
 
 ## <a name="skills">Skills</a>
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Fast, independent learner [https://www.codecademy.com/sharma_reena]
+- Curious and passionate about code. [https://www.codewars.com/users/reenz]
 
 ## <a name="education"> Education </a>
 
 #### Makers Academy (Nov 2017 to Mar 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [https://www.codewars.com/users/reenz]
-- Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Python, Unitest, Capybara-py
+- Machine Learning
 
 #### Symbiosis International College of Arts and Commerce, Pune, India(July 2011 to May 2013)
 -Masters in Commerce specialising in Accounting and Taxation
@@ -54,8 +41,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## <a name="experience"> Experience </a>
 
-**PRGX Pvt India Ltd** (Dec 2013 to Dec 2014)    
-*Junior Auditor*  
+#### PRGX Pvt India Ltd (Dec 2013 to Dec 2014)    
+#### Junior Auditor
 - Matching clients accounting history to discover and recover over payments, missed discounts and pricing errors.
 - Analysing payment history to crosscheck if the allowances or payback were received from vendor, if not then raising
   debit memo on behalf of the client.
