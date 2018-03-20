@@ -22,12 +22,11 @@ I was a junior auditor and now a full stack developer. I am quick to grasp new c
 ## <a name="education"> Education </a>
 
 #### Makers Academy (Nov 2017 to Mar 2018)
-- OOP, TDD, MVC, DDD
+
+- OOP(Object Oriented Programming), TDD(Test Driven Development), MVC(Model View Controller), DDD(Domain Driven Design)
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-- Python, Unitest, Capybara-py
-- Machine Learning
 
 #### Symbiosis International College of Arts and Commerce, Pune, India(July 2011 to May 2013)
 -Masters in Commerce specialising in Accounting and Taxation
@@ -52,3 +51,4 @@ I was a junior auditor and now a full stack developer. I am quick to grasp new c
 
 ## <a name="interests"> Interests </a>
 - Enjoy trying out new dishes and baking cakes
+- Travelling
