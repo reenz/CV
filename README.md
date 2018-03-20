@@ -13,6 +13,7 @@ I was a junior auditor and now a full stack developer. I am quick to grasp new c
 | [Chitter Challenge](https://github.com/reenz/chitter-challenge) | Twitter Clone | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB),CSS3 | RSpec, Capybara
 | [Bowling Challenge](https://github.com/reenz/bowling-challenge)  | Calculate Scores for Ten Pin Bowling | JavaScript,JQuery,HTML5,CSS3 | Jasmine
 | [Instagram Challenge](https://github.com/reenz/instagram-challenge)  | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick | RSpec, Capybara
+| [We Predicted that](https://github.com/reenz/we-predicted-that)  | Machine Learning project | Python, Tensorflow, Pandas, Django, Google ML Engine, Heroku | Unittest, Capybara-py
 
 ## <a name="skills">Skills</a>
 - Fast, independent learner [https://www.codecademy.com/sharma_reena]
