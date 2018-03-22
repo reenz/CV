@@ -3,7 +3,10 @@
 [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/reena-sharma-061a07105/)
 
 
-I was a junior auditor and now a full stack developer. I am quick to grasp new concepts and ideas and able to work on own initiative with the organisation and prioritisation to achieve deadlines.
+I was a junior auditor and now a full stack developer. While working at PRGX, I had a strong desire to automate the manual audit processes but lacked the skills or platform to do so. My relocation from India to UK gave me the much needed time to pursue my interest in programming. Makers Academy provided me with the platform to go from a hobbyist programmer to being a full-stack developer.
+
+I am quick to grasp new concepts and ideas and able to work on own initiative with the organisation and prioritisation to achieve deliverables .
+
 
 #### Projects
 
@@ -16,6 +19,8 @@ I was a junior auditor and now a full stack developer. I am quick to grasp new c
 | [We Predicted that](https://github.com/reenz/we-predicted-that)  | Machine Learning project | Python, Tensorflow, Pandas, Django, Google ML Engine, Heroku | Unittest, Capybara-py
 
 ## <a name="skills">Skills</a>
+
+
 - Fast, independent learner [https://www.codecademy.com/sharma_reena]
 - Curious and passionate about code. [https://www.codewars.com/users/reenz]
 
