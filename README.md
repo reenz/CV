@@ -3,26 +3,54 @@
 [Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/reena-sharma-061a07105/)
 
 
-I was a junior auditor and now a full stack developer. While working at PRGX, I had a strong desire to automate the manual audit processes but lacked the skills or platform to do so. My relocation from India to UK gave me the much needed time to pursue my interest in programming. Makers Academy provided me with the platform to go from a hobbyist programmer to being a full-stack developer.
-
-I am quick to grasp new concepts and ideas and able to work on own initiative with the organisation and prioritisation to achieve deliverables .
-
+I was a auditor and now a full stack developer. At my previous work I had a strong desire to automate the manual audit processes but lacked the skills or platform to do so. Makers Academy provided me with the platform to go from a hobbyist programmer to being a full-stack developer.
 
 #### Projects
 
 | Name  | Description | Technologies |Testing |
 | ------------- | ------------- | ------------- |-------
-| [Takeaway Challenge](https://github.com/reenz/takeaway-challenge)  | Takeaway app, with the feature to send confirmation SMS ! | Ruby | RSpec
-| [Chitter Challenge](https://github.com/reenz/chitter-challenge) | Twitter Clone | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB),CSS3 | RSpec, Capybara
+| [We Predicted that](https://github.com/reenz/we-predicted-that)  | Machine Learning project | Python, Tensorflow, Pandas, Django, Google ML Engine, Heroku | Unittest, Capybara-py
 | [Bowling Challenge](https://github.com/reenz/bowling-challenge)  | Calculate Scores for Ten Pin Bowling | JavaScript,JQuery,HTML5,CSS3 | Jasmine
 | [Instagram Challenge](https://github.com/reenz/instagram-challenge)  | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick,Amazon S3,Fog | RSpec, Capybara
-| [We Predicted that](https://github.com/reenz/we-predicted-that)  | Machine Learning project | Python, Tensorflow, Pandas, Django, Google ML Engine, Heroku | Unittest, Capybara-py
+| [Chitter Challenge](https://github.com/reenz/chitter-challenge) | Twitter Clone | Ruby, Sinatra, PostgreSQL, DataMapper, HTML5(ERB),CSS3 | RSpec, Capybara
+| [Takeaway Challenge](https://github.com/reenz/takeaway-challenge)  | Takeaway app, with the feature to send confirmation SMS ! | Ruby | RSpec
+
 
 ## <a name="skills">Skills</a>
 
-
 - Fast, independent learner [https://www.codecademy.com/sharma_reena]
 - Curious and passionate about code. [https://www.codewars.com/users/reenz]
+- Good communication and people skills with a polite and professional approach
+- A good team player and individual contributor
+- Strong analytical skills with a high level of accuracy and attention to detail
+- Willingness to learn and ready for new challenges
+- Well organized with good time management with flexibility to meet deadlines
+- I am quick to grasp new concepts and ideas and able to work on own initiative with the organization and prioritization to achieve deliverables.
+
+  ### Languages
+
+  - Python
+  - Ruby
+  - Javacript
+
+  ### Back-end Technologies
+
+  - Node, Express
+  - Ruby on Rails
+  - Django
+
+  ### Front-end Technologies
+
+  - React
+  - Jquery 
+
+  ### Testing Libraries
+
+  - Jest, Enzyme
+  - Mocha, Chai
+  - Jasmine
+  - Rspec, Capybara
+  - Unittest, Capybara-py
 
 ## <a name="education"> Education </a>
 
@@ -34,12 +62,12 @@ I am quick to grasp new concepts and ideas and able to work on own initiative wi
 - RSpec, Jasmine
 
 #### Symbiosis International College of Arts and Commerce, Pune, India(July 2011 to May 2013)
--Masters in Commerce specialising in Accounting and Taxation
--First class
+- Masters in Commerce specialising in Accounting and Taxation
+- First class
 
 #### Ness Wadia College of Commerce, Pune, India(July 2013 to May 2014)
--Post Graduate Diploma in Banking and Finance
--First class
+- Post Graduate Diploma in Banking and Finance
+- First class
 
 #### Course in Certified Industrial Accountant+ from Pune, India(Sep 2008 to Feb 2010)
 - A Grade
