@@ -38,6 +38,8 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
   - Node, Express
   - Ruby on Rails
   - Django
+  - PostgreSQL
+  - Datamapper
 
   ### Front-end Technologies
 
@@ -54,27 +56,30 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
 
 ## <a name="education"> Education </a>
 
-#### Makers Academy (Nov 2017 to Mar 2018)
+#### [Makers Academy](http://www.makersacademy.com/) (Nov 2017 to Mar 2018)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Symbiosis International College of Arts and Commerce, Pune, India(July 2011 to May 2013)
-- Masters in Commerce specialising in Accounting and Taxation
-- First class
+#### Symbiosis International College of Arts and Commerce, Pune, India (July 2011 to May 2013)
+- Masters in Commerce specialising in Accounting and Taxation(First class)
 
-#### Ness Wadia College of Commerce, Pune, India(July 2013 to May 2014)
-- Post Graduate Diploma in Banking and Finance
-- First class
+#### Ness Wadia College of Commerce, Pune, India (July 2013 to May 2014)
+- Post Graduate Diploma in Banking and Finance(First class_
 
-#### Course in Certified Industrial Accountant+ from Pune, India(Sep 2008 to Feb 2010)
+#### Course in Certified Industrial Accountant+ from Pune, India (Sep 2008 to Feb 2010)
 - A Grade
 
 ## <a name="experience"> Experience </a>
 
-#### PRGX Pvt India Ltd (Dec 2013 to Dec 2014)    
+#### Career Break (Jan 2015 to Oct 2017)
+- Relocated to United Kingdom
+- Exploring programming to complement my domain skills
+
+#### PRGX Pvt India Ltd (Dec 2013 to Dec 2014)
+
 #### Junior Auditor
 - Matching clients accounting history to discover and recover over payments, missed discounts and pricing errors.
 - Analysing payment history to crosscheck if the allowances or payback were received from vendor, if not then raising
