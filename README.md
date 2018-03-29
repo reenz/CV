@@ -18,8 +18,8 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
 
 ## <a name="skills">Skills</a>
 
-- Fast, independent learner [https://www.codecademy.com/sharma_reena]
-- Curious and passionate about code. [https://www.codewars.com/users/reenz]
+- Fast, independent learner
+- Curious and passionate about code- Before joining makers I did a lot of katas on [Codewars](https://www.codewars.com/users/reenz)
 - Good communication and people skills with a polite and professional approach
 - A good team player and individual contributor
 - Strong analytical skills with a high level of accuracy and attention to detail
@@ -42,7 +42,7 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
   ### Front-end Technologies
 
   - React
-  - Jquery 
+  - jQuery 
 
   ### Testing Libraries
 
@@ -56,7 +56,7 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
 
 #### Makers Academy (Nov 2017 to Mar 2018)
 
-- OOP(Object Oriented Programming), TDD(Test Driven Development), MVC(Model View Controller), DDD(Domain Driven Design)
+- OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
