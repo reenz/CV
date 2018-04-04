@@ -19,7 +19,7 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
 ## <a name="skills">Skills</a>
 
 - Fast, independent learner
-- Curious and passionate about code- Before joining makers I did a lot of katas on [Codewars](https://www.codewars.com/users/reenz)
+- Curious and passionate about code- Before joining makers I did a lot of kata on [Codewars](https://www.codewars.com/users/reenz)
 - Good communication and people skills with a polite and professional approach
 - A good team player and individual contributor
 - Strong analytical skills with a high level of accuracy and attention to detail
@@ -67,7 +67,7 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
 - Masters in Commerce specialising in Accounting and Taxation(First class)
 
 #### Ness Wadia College of Commerce, Pune, India (July 2013 to May 2014)
-- Post Graduate Diploma in Banking and Finance(First class_
+- Post Graduate Diploma in Banking and Finance(First class)
 
 #### Course in Certified Industrial Accountant+ from Pune, India (Sep 2008 to Feb 2010)
 - A Grade
