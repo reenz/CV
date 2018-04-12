@@ -10,7 +10,7 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
 | Name  | Description | Technologies |Testing |
 | ------------- | ------------- | ------------- |-------
 | [We Predicted that](https://github.com/reenz/we-predicted-that)  | Machine Learning project | Python, Tensorflow, Pandas, Django, Google ML Engine, Heroku | Unittest, Capybara-py
-| [Thermostat](https://github.com/reenz/react-thermostat)  | Simple thermostat app to learn React | React, Babel, ES6, Express, Heroku | Jest, Enzyme
+| [Thermostat](https://github.com/reenz/react-thermostat)  | Simple thermostat app to learn React and building infrastructure as code | React, Babel, ES6, Express, Heroku, Terraform | Jest, Enzyme
 | [Bowling Challenge](https://github.com/reenz/bowling-challenge)  | Calculate Scores for Ten Pin Bowling | JavaScript,JQuery,HTML5,CSS3 | Jasmine
 | [Instagram Challenge](https://github.com/reenz/instagram-challenge)  | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick,Amazon S3,Fog, Heroku | RSpec, Capybara
 | [Chitter Challenge](https://github.com/reenz/chitter-challenge) | Twitter Clone | Ruby, Sinatra, PostgreSQL, DataMapper, HTML5(ERB),CSS3, Heroku | RSpec, Capybara
