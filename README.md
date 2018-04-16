@@ -5,6 +5,8 @@
 
 I was a auditor and now a full stack developer. At my previous work I had a strong desire to automate the manual audit processes but lacked the skills or platform to do so. Makers Academy provided me with the platform to go from a hobbyist programmer to being a full-stack developer.
 
+I have inquiring mind which pushes me to learn things; recently learnt about building infrastructure as code using Terraform, deploying express app on AWS Elastic Beanstalk and running NodeJS app as a Docker container.
+
 #### Projects
 
 | Name  | Description | Technologies |Testing |
@@ -19,7 +21,7 @@ I was a auditor and now a full stack developer. At my previous work I had a stro
 
 ## <a name="skills">Skills</a>
 
-- Fast, independent learner
+- Fast, independent learner 
 - Curious and passionate about code- Before joining makers I did a lot of kata on [Codewars](https://www.codewars.com/users/reenz)
 - Good communication and people skills with a polite and professional approach
 - A good team player and individual contributor
