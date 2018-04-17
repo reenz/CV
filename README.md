@@ -98,14 +98,14 @@ I have inquiring mind which pushes me to learn things; recently learnt about bui
 <div align="center">
 
 <a href="https://github.com/reenz">
-<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png"></a>
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png" hspace="30" ></a>
 
 <a href="https://www.linkedin.com/in/reena-sharma-061a07105/">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png""></a>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png" hspace="30"></a>
 
 <a href="https://www.codewars.com/users/reenz">
-<img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png"></a>
+<img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
 
 <a href="https://twitter.com/_reenz_">
-<img src="https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-48.png"></a>
+<img src="https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-48.png" ></a>
 </div>
