@@ -95,6 +95,8 @@ I have inquiring mind which pushes me to learn things; recently learnt about bui
 - Enjoy trying out new dishes and baking cakes
 - Travelling
 
+<div align="center">
+
 <a href="https://github.com/reenz">
 <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png"></a>
 
@@ -106,3 +108,4 @@ I have inquiring mind which pushes me to learn things; recently learnt about bui
 
 <a href="https://twitter.com/_reenz_">
 <img src="https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-48.png"></a>
+</div>
