@@ -106,6 +106,9 @@ I have inquiring mind which pushes me to learn things; recently learnt about bui
 <a href="https://www.codewars.com/users/reenz">
 <img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
 
+<a href="https://medium.com/@reenz">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
+
 <a href="https://twitter.com/_reenz_">
 <img src="https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-48.png" ></a>
 </div>
