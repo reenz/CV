@@ -5,7 +5,7 @@
 
 I was a auditor and now a full stack developer. At my previous work I had a strong desire to automate the manual audit processes but lacked the skills or platform to do so. Makers Academy provided me with the platform to go from a hobbyist programmer to being a full-stack developer.
 
-I have inquiring mind which pushes me to learn things; recently learnt about building infrastructure as code using Terraform, deploying express app on AWS Elastic Beanstalk and running NodeJS app as a Docker container.
+I have inquiring mind which pushes me to learn things; recently learnt about building infrastructure as code using Terraform, deploying express app on AWS Elastic Beanstalk and running NodeJS app as a Docker container - see my blog on [Medium](https://medium.com/@reenz/getting-started-with-docker-using-node-js-e58bf4e6e19e).
 
 #### Projects
 
