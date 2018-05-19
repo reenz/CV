@@ -1,6 +1,25 @@
+<div align="center">
+
+<a href="https://github.com/reenz">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png" hspace="30" ></a>
+
+<a href="https://www.linkedin.com/in/reena-sharma-061a07105/">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png" hspace="30"></a>
+
+<a href="https://www.codewars.com/users/reenz">
+<img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
+
+<a href="https://medium.com/@reenz">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
+
+<a href="https://twitter.com/_reenz_">
+<img src="https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-48.png" ></a>
+</div>
+
+
 ## Reena Sharma
 
-[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Linkedin](https://www.linkedin.com/in/reena-sharma-061a07105/)
+[Projects](#projects) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 
 
 I was a auditor and now a full stack developer. At my previous work I had a strong desire to automate the manual audit processes but lacked the skills or platform to do so. Makers Academy provided me with the platform to go from a hobbyist programmer to being a full-stack developer.
@@ -15,6 +34,7 @@ I have inquiring mind which pushes me to learn things; recently learnt about bui
 | [Thermostat](https://github.com/reenz/react-thermostat) (Solo) | Simple thermostat app to learn React and building infrastructure as code | React, Babel, ES6, Express, Heroku, Terraform | Jest, Enzyme
 | [Bowling Challenge](https://github.com/reenz/bowling-challenge) (Solo) | Calculate Scores for Ten Pin Bowling | JavaScript,JQuery,HTML5,CSS3 | Jasmine
 | [Instagram Challenge](https://github.com/reenz/instagram-challenge) (Solo) | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick,Amazon S3,Fog, Heroku | RSpec, Capybara
+| [MakersBnB](https://github.com/reenz/makersbnb) (Group) | AirBnB Clone | Ruby,Sinatra,Datamapper | RSpec,Capybara
 | [Chitter Challenge](https://github.com/reenz/chitter-challenge) (Solo) | Twitter Clone | Ruby, Sinatra, PostgreSQL, DataMapper, HTML5(ERB),CSS3, Heroku | RSpec, Capybara
 | [Takeaway Challenge](https://github.com/reenz/takeaway-challenge) (Solo) | Takeaway app, with the feature to send confirmation SMS ! | Ruby | RSpec
 
@@ -94,21 +114,4 @@ I have inquiring mind which pushes me to learn things; recently learnt about bui
 
 - Enjoy trying out new dishes and baking cakes
 - Travelling
-
-<div align="center">
-
-<a href="https://github.com/reenz">
-<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png" hspace="30" ></a>
-
-<a href="https://www.linkedin.com/in/reena-sharma-061a07105/">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png" hspace="30"></a>
-
-<a href="https://www.codewars.com/users/reenz">
-<img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
-
-<a href="https://medium.com/@reenz">
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
-
-<a href="https://twitter.com/_reenz_">
-<img src="https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-48.png" ></a>
-</div>
+- Basketball
