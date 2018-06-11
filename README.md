@@ -86,20 +86,20 @@ I have inquiring mind which pushes me to learn things; recently learnt about bui
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Symbiosis International College of Arts and Commerce, Pune, India (July 2011 to May 2013)
-- Masters in Commerce specialising in Accounting and Taxation(First class)
-
 #### Ness Wadia College of Commerce, Pune, India (July 2013 to May 2014)
 - Post Graduate Diploma in Banking and Finance(First class)
 
-#### Course in Certified Industrial Accountant+ from Pune, India (Sep 2008 to Feb 2010)
-- A Grade
+#### Symbiosis International College of Arts and Commerce, Pune, India (July 2011 to May 2013)
+- Masters in Commerce specialising in Accounting and Taxation(First class)
+
+#### Symbiosis International College of Arts and Commerce, Pune, India (July 2008 to May 2011)
+- Bachelor in Commerce specialising in Banking and Finance(First class)
 
 ## <a name="experience"> Experience </a>
 
 #### Career Break (Jan 2015 to Oct 2017)
 - Relocated to United Kingdom
-- Exploring programming to complement my domain skills
+- Explored my interest in programming
 
 #### PRGX Pvt India Ltd (Dec 2013 to Dec 2014)
 
