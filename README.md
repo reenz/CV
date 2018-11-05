@@ -17,7 +17,7 @@
 Reena Sharma  
 London, SE13  
 E-mail: reena.sanjay.sharma@gmail.com  
-Mobile: 07823574457  
+ 
 <br>
 
  ### [Experience](#experience) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
