@@ -14,13 +14,9 @@
 <br>
 <br>  
 
-Reena Sharma  
-London, SE13  
-E-mail: reena.sanjay.sharma@gmail.com  
+### Reena Sharma  
  
-<br>
-
- ### [Experience](#experience) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
+### [Experience](#experience) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
 
 I am an enthusiastic and passionate Junior Full Stack Developer who was working at [Pottermore](https://www.pottermore.com) where I gained hands-on experience in web development. Before this, I was undergoing training at Makers, one of Europe’s leading and most selective web development bootcamp. At Makers, I learnt Software Craftsmanship, Object Oriented Programming, TDD and Agile methodologies. Prior to joining Makers, I gained an analytical mindset and a high attention to detail from my Accounting and Finance background. 
 
@@ -29,7 +25,7 @@ I am an enthusiastic and passionate Junior Full Stack Developer who was working 
 #### Junior Developer at Pottermore(part of WWDFE) (July 2018 to Oct 2018)
 
 - Web development in Javascript and React to create responsive web applications
-- Exposure to Groovy, Terraform, AWS, Amazon Cognito, Contentful etc
+- Exposure to Groovy, Terraform, AWS, Contentful etc
 - Regularly checking web logs on Papertrail
 - Part of a scrum team with 2 week sprints and daily standups for status updates .
 
