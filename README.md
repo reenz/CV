@@ -46,14 +46,14 @@ I am an enthusiastic and passionate Junior Full Stack Developer who was working 
 ### <a name="projects">Projects</a> 
 
 | Name  | Description | Technologies |Testing | Deployed On | 
-| ------------- | ------------- | ------------- |---------- | ---------------
-| [Discount API](https://github.com/reenz/discount-api) (Solo) | Api that calculates discount on item in shopping basket | JavaScript, PostgresSQL | Mocha, Chai, Sinon | Try from terminal
-| [Thermostat](https://github.com/reenz/react-thermostat) (Solo) | Simple thermostat app to learn React and building infrastructure as code | React, Babel, ES6, Express, Heroku, Terraform | Jest, Enzyme | <a href="https://reenz-thermostat.herokuapp.com/"><img src="https://img.icons8.com/color/32/000000/heroku.png"></a> |
-| [Bowling Challenge](https://github.com/reenz/bowling-challenge) (Solo) | Calculate Scores for Ten Pin Bowling | JavaScript,JQuery,HTML5,CSS3 | Jasmine
-|[We Predicted that](https://github.com/reenz/we-predicted-that) (Group) | Machine Learning project | Python, Tensorflow, Pandas, Django, Google ML Engine, Heroku | Unittest, Capybara-py | <a href="https://we-predicted-pokemon.herokuapp.com/"><img src="https://img.icons8.com/color/32/000000/heroku.png"></a> |
-| [Instagram Challenge](https://github.com/reenz/instagram-challenge) (Solo) | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick,Amazon S3,Fog, Heroku | RSpec, Capybara | <a href="https://reenz-instagram.herokuapp.com/"><img src="https://img.icons8.com/color/32/000000/heroku.png"></a> |
-| [MakersBnB](https://github.com/reenz/makersbnb) (Group) | AirBnB Clone | Ruby, Sinatra, PostgreSQL, DataMapper, HTML5(ERB),CSS3 | RSpec,Capybara
-| [Takeaway Challenge](https://github.com/reenz/takeaway-challenge) (Solo) | Takeaway app, with the feature to send confirmation SMS ! | Ruby | RSpec
+| ------------- | ------------- | --------- |---------- | ---------|
+| [Discount API](https://github.com/reenz/discount-api) (Solo) | Api that calculates discount on item in shopping basket | JavaScript, PostgresSQL | Mocha, Chai, Sinon | Try from terminal |
+| [Thermostat](https://github.com/reenz/react-thermostat) (Solo) | Simple thermostat app to learn React and building infrastructure as code | React, Babel, ES6, Express, Heroku, Terraform | Jest, Enzyme | <a href="https://reenz-thermostat.herokuapp.com/"><img src="https://img.icons8.com/color/32/000000/heroku.png" hspace="30"></a> |
+| [Bowling Challenge](https://github.com/reenz/bowling-challenge) (Solo) | Calculate Scores for Ten Pin Bowling | JavaScript,JQuery,HTML5,CSS3 | Jasmine |
+|[We Predicted that](https://github.com/reenz/we-predicted-that) (Group) | Machine Learning project | Python, Tensorflow, Pandas, Django, Google ML Engine, Heroku | Unittest, Capybara-py | <a href="https://we-predicted-pokemon.herokuapp.com/"><img src="https://img.icons8.com/color/32/000000/heroku.png" hspace="30"></a> |
+| [Instagram Challenge](https://github.com/reenz/instagram-challenge) (Solo) | Instagram Clone | Rails,Devise,Carrierwave,Mini_magick,Amazon S3,Fog, Heroku | RSpec, Capybara | <a href="https://reenz-instagram.herokuapp.com/"><img src="https://img.icons8.com/color/32/000000/heroku.png" hspace="30"></a> |
+| [MakersBnB](https://github.com/reenz/makersbnb) (Group) | AirBnB Clone | Ruby, Sinatra, PostgreSQL, DataMapper, HTML5(ERB),CSS3 | RSpec,Capybara |
+| [Takeaway Challenge](https://github.com/reenz/takeaway-challenge) (Solo) | Takeaway app, with the feature to send confirmation SMS ! | Ruby | RSpec |
 |
 
 ### <a name="skills">Skills</a>
